@@ -1,8 +1,4 @@
 # HelloWorld
 Comp Sci
 
-...
-
 Checklist
-
-...
