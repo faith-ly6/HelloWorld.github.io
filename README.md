@@ -8,7 +8,7 @@ Checklist
 
 To do list ... a different organization
 - [] this must still be done
-- [] this is done
+- [x] this is done
 - [] this must be done still
 
 ---
